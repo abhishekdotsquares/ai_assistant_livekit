@@ -18,7 +18,7 @@ This project aims to develop a **voice assistant** using **LiveKit's Voice Pipel
 ### 1. **Clone and Set Up LiveKit Voice Pipeline Agent**
 
 ```bash
-git clone https://github.com/abhishekdotsquares/ai_assitant.git
+git clone https://github.com/abhishekdotsquares/ai_assistant_livekit.git
 cd ai_assitant
 ```
 
